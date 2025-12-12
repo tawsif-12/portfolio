@@ -5,16 +5,16 @@ import ProjectCard from './components/ProjectCard'
 
 const projects = [
   {
-    title: 'Project Alpha',
-    description: 'A short description of Project Alpha.',
+    title: 'educa',
+    description: 'A platform for online education and learning.',
     link: '#',
-    tags: ['React', 'API']
+    tags: ['Education', 'React']
   },
   {
-    title: 'Project Beta',
-    description: 'A short description of Project Beta.',
+    title: 'travelllo',
+    description: 'A travel planning and booking application.',
     link: '#',
-    tags: ['Design', 'CSS']
+    tags: ['Travel', 'Web App']
   }
 ]
 
