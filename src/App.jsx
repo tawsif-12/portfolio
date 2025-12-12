@@ -47,7 +47,9 @@ export default function App() {
 
         <section id="contact" className="contact card">
           <h2>Contact</h2>
-          <p>Feel free to reach out: <a href="mailto:zayeed@example.com">zayeed@example.com</a></p>
+          <p>Email: <a href="mailto:tawsifmannan1212@gmail.com">tawsifmannan1212@gmail.com</a></p>
+          <p>Phone: 01883874663</p>
+          <p>Location: Dhaka, Bangladesh</p>
         </section>
       </main>
 
